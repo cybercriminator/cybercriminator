@@ -2,7 +2,7 @@
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cybercriminator) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cybercriminator@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cybercriminator/) 
  
 
-Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we learn all about IT <img align="right" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="50%" height="auto" /> 
+Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we learn all about IT <img align="right" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="65%" height="auto" /> 
 
 #### 🌱 things we're working on: 
 - Deface 
