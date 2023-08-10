@@ -1,0 +1,55 @@
+:root {
+    --backgroundColor: #0f0000;
+    --foregroundColor: #000000;
+    --foregroundShadowColor: #8a0303;
+    --rotation: rotate(0deg);
+    --textShadow: 2px 2px 0px;
+    --vignetteBlur: 0px;
+    --scale: scale(1);
+}
+
+@font-face {
+    font-family: anarchy;
+    src: url(https://chinafans.cc/root/anarchy.woff) format('woff');
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+body {
+    display: flex;
+    padding: 0;
+    background-color: var(--backgroundColor);
+    justify-content: center;
+    align-items: center;
+}
+
+.vignette {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 var(--vignetteBlur) rgba(0, 0, 0, 1) inset;
+    z-index: 1;
+}
+
+#transform {
+    color: var(--foregroundColor);
+    font-family: anarchy;
+    font-size: 10em;
+    font-weight: normal;
+    transform: var(--rotation) scale(1);
+    text-shadow: var(--textShadow);
+    animation: scaleyboy 120s linear alternate infinite;
+}
+
+@keyframes scaleyboy {
+    to {
+        transform: rotate(0deg) scale(0.5) translate3d(200px, 150px, 0);
+    }
+}
