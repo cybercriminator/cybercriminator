@@ -1,5 +1,5 @@
 ### 
-<img alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="100%" height="auto" />
+<img alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="80%" height="auto" />
 <pre align="center">       
   _      __    __                     _____         
  | | /| / /__ / /______  __ _  ___   / ___/_ ____ __©
