@@ -8,7 +8,7 @@
  |__/|__/\__/_/\__/\___/_/_/_/\__/  \___/\_,_/\_, / 
                                              /___/</pre>
 <samp>:octocat: Hello bruh! Welcome to My Profile <samp><br>
- [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cybercriminator) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cybercriminator@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cybercriminator/) 
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cybercriminator) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cybercriminator@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/r4m1l/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://www.wa.me/lol) 
  
 
 Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we learn all about IT <br />
@@ -19,9 +19,8 @@ Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we
 - Web Developer, IT Networking, Ethical Hacking 
 - Blogger in <a href="https://azxploit.info" target="_blank">azxploit.info</a> 
 <p align="right" >#### :computer: Programming languages and tools: 
-
-<code>[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cybercriminator)</code> <code>[![Github](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/r4m1l)</code> <br /><br /> <code>[![Github](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r4m1l)</code><code>[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cybercriminator)</code> <code>[![Github](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/r4m1l)</code> <br /><br /></p>
-<img width="60%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> 
+ <br /><br /></p>
+<p><img width="60%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> </p>
 
 
 
