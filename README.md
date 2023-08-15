@@ -1,5 +1,5 @@
 ### 
-<pre align="center"> <img align="center" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="70%" height="auto" /></pre>
+<pre align="center"> <img align="center" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="70%" height="auto" /><br><a target="blank" href="https://profile-counter.glitch.me/cybercriminator/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/cybercriminator/count.svg" /></a></pre>
 <pre align="center"> 
       
   _      __    __                     _____         
