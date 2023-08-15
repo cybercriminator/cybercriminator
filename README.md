@@ -18,10 +18,10 @@ Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we
 - IT Support 
 - Web Developer, IT Networking, Ethical Hacking 
 - Blogger in <a href="https://azxploit.info" target="_blank">azxploit.info</a> 
-<p align="right" >#### :computer: Programming languages and tools:  	<img width="60%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> 
+<p align="right" >#### :computer: Programming languages and tools: 
 
 <code>[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cybercriminator)</code> <code>[![Github](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/r4m1l)</code> <br /><br /> <code>[![Github](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r4m1l)</code><code>[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/cybercriminator)</code> <code>[![Github](https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/r4m1l)</code> <br /><br /></p>
-
+<img width="60%" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> 
 
 
 
