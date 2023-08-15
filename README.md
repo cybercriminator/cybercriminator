@@ -17,10 +17,10 @@ Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we
 - Deface 
 - IT Support 
 - Web Developer, IT Networking, Ethical Hacking 
-- Blogger in <a href="https://azxploit.info" target="_blank">azxploit.info</a> 
-<p align="right" >#### :computer: Programming languages and tools: 
- <br /><br /></p>
+- Website in <a href="https://azxploit.info" target="_blank">azxploit.info</a> 
+<!--<p align="right" >#### :computer: Programming languages and tools: 
+ <br /><br /></p>-->
 <p><img width="60%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> </p>
-
+<!--<img src="https://github-readme-stats.vercel.app/api?username=cybercriminator&hide_border=true&show_icons=true&bg_color=050f2c&title_color=42aaf5&text_color=FFFFFF&icon_color=2dde98" align="center">-->
 
 
