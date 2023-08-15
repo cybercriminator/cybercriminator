@@ -20,7 +20,7 @@ Welcome to our Github page! we are a cybersecurity community from Azerbaijan, we
 - Blogger in <a href="https://azxploit.info" target="_blank">azxploit.info</a> 
 
 
-#### :computer: Programming languages and tools: <p> 	<img width="60%" align="right" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple)" /> 
+#### :computer: Programming languages and tools: <p> 	<img width="60%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybercriminator&theme=midnight_purple" /> 
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code> <code><img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <br /> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"></code> <br /> <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> </p>
