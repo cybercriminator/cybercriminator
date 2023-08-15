@@ -5,7 +5,7 @@
  | |/ |/ / -_) / __/ _ \/  ' \/ -_) / /__/ // / // /
  |__/|__/\__/_/\__/\___/_/_/_/\__/  \___/\_,_/\_, / 
                                              /___/</pre>
-👋 Hello bruh! Welcome to My Profile 
+<samp><img src="https://s.id/1EM3Z" width="30" height="30">:octocat: Hello bruh! Welcome to My Profile <samp>
  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cybercriminator) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cybercriminator@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/cybercriminator/) 
  
 
