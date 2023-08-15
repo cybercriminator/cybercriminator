@@ -1,6 +1,6 @@
 ### 
+<pre align="center"> <img align="center" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="70%" height="auto" /></pre>
 <pre align="center"> 
-<img align="center" alt="img" src="https://i.pinimg.com/originals/66/fa/c0/66fac01082093acd579f100da53d416e.gif" width="70%" height="auto" />
       
   _      __    __                     _____         
  | | /| / /__ / /______  __ _  ___   / ___/_ ____ __©
